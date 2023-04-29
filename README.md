@@ -12,5 +12,5 @@ Simple script for download from some cuevana clone pages.
 - `pip3 install requests`
 - `pip3 install httpx`
 - `pip3 install lxml`
-- `pip3 isntall tqdm`
+- `pip3 install tqdm`
 - `pip3 install cssselect`
